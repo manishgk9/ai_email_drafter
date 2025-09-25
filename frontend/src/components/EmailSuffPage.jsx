@@ -54,7 +54,7 @@ export default function EmailStuffPage() {
           value={prompt}
           onChange={(e) => dispatch(setPrompt(e.target.value))}
           className="border p-3 w-full h-32 rounded-xl bg-gray-50 focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
-          placeholder="e.g. Write a friendly follow-up for a job interview..."
+          placeholder="e.g. Write a required promt here..."
         />
       </div>
       {/* error  */}
