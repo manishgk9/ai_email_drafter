@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydantic[email]
+google-genai
+dotenv
+fastapi-mail
+resend
